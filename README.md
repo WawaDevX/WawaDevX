@@ -3,9 +3,9 @@
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-%23FF5E5B.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/wawadev)
 
+yo, im wawadev.
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![CachyOS](https://img.shields.io/badge/CachyOS-0A8?logo=cachyos&logoColor=fff)](#)
+Yes just as every other developer i cannot finish a single project either lmao
 
 <sub> my languages: </sub>
 
@@ -14,13 +14,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-<hr>
-
-
-yo, im wawadev.
-
-Yes just as every other developer i cannot finish a single project either lmao
-
 <hr>
 
 ## Contacts / Social media / Blog
@@ -32,3 +25,6 @@ Yes just as every other developer i cannot finish a single project either lmao
 <hr>
 
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/spacecat031/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/spacecat031/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/spacecat031/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![CachyOS](https://img.shields.io/badge/CachyOS-0A8?logo=cachyos&logoColor=fff)](#)
